@@ -20,13 +20,13 @@ Recruitment Management Tool
 
 # Development Mode
     - Terminal 1 (Back-End)
-    > nodemon app.js
+    > npm start
     - Terminal 2 (Front-End)
     > cd client
     > npm start
     
-To login into recruiter side use this email as admin/recruiter.
-email-recruiterbit9@gmail.com
-password-recruiterbit@pswd
+- To login into recruiter side use this email as admin/recruiter.
+ email- recruiterbit9@gmail.com
+ password- recruiterbit@pswd
 
 
