@@ -3,7 +3,7 @@
 # About the Project
 Recruitment Management Tool
 
-# Tech Stack - MERN, Blockchain- Solidity, Ganache
+# Tech Stack - MERN
 - Front-end - ReactJS
 - Database - MongoDB Atlas
 - Back-end - NodeJS (ExpressJS)
