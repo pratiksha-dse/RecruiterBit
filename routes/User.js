@@ -6,7 +6,7 @@ const JWT = require("jsonwebtoken");
 const User = require("../models/User");
 const { OAuth2Client } = require("google-auth-library");
 const client = new OAuth2Client(
-  "373151948151-5k1he8abmr2a1ok10g07c9phkmjld2jk.apps.googleusercontent.com"
+  "373151948151-7ucdilvhgce7u17fv2s1vs67bbvjesh3.apps.googleusercontent.com"
 );
 const signToken = (userID) => {
   return JWT.sign(
