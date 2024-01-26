@@ -29,4 +29,8 @@ Recruitment Management Tool
  email- recruiterbit9@gmail.com
  password- recruiterbit@pswd
 
+ - To login into a candidate side use this email as user/candidate.
+ email- testcandidate954@gmail.com
+ password- testcandidate@pswd
+
 

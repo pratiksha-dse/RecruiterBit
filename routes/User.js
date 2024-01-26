@@ -6,7 +6,7 @@ const JWT = require("jsonwebtoken");
 const User = require("../models/User");
 const { OAuth2Client } = require("google-auth-library");
 const client = new OAuth2Client(
-  "373151948151-7ucdilvhgce7u17fv2s1vs67bbvjesh3.apps.googleusercontent.com"
+  "569929544288-mpml2ke6etbm0c1vmvme5barqbckkh3e.apps.googleusercontent.com"
 );
 const signToken = (userID) => {
   return JWT.sign(
@@ -56,7 +56,7 @@ userRouter.post("/login", (req, res) => {
       res.status(200).json({
         isAuthenticated: true,
         user: user,
-        isAdmin:user.email=="palpratiksha69@gmail.com"
+        isAdmin:user.email=="recruiterbit9@gmail.com"
       });
     } else {
       res.status(500).json({
